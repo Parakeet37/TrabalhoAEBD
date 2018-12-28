@@ -47,7 +47,7 @@ pip install djangorestframework
 pip install cx_oracle
 ```
 
-###Instalar Oracle client
+###Instalar Oracle client de 32bits
 ```
 https://www.oracle.com/technetwork/database/enterprise-edition/downloads/database12c-win64-download-2297732.html
 
