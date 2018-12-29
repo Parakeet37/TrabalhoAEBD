@@ -25,8 +25,8 @@ quota 450M on trabalho;
 
 ######PRIVILÉGIOS DO UTILIZADOR
 ```
-GRANT CONNECT TO user1;
-GRANT RESOURCE TO user1;
+GRANT CONNECT TO adm;
+GRANT RESOURCE TO adm;
 ```
 
 
