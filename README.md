@@ -64,3 +64,8 @@ python manage.py migrate
 ```
 python manage.py createsuperuser
 ```
+
+###Correr API
+```
+python manage.py runserver
+```
